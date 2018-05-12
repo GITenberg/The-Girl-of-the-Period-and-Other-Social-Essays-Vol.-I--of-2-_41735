@@ -1,0 +1,42 @@
+_repo: The-Girl-of-the-Period-and-Other-Social-Essays-Vol.-I--of-2-_41735
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41735-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Linton, E. Lynn (Elizabeth Lynn)
+    aliases:
+    - Linton, Lynn
+    - Linton, Elizabeth Lynn
+    - Lynn, Eliza
+    - Linton, Mrs. Lynn
+    - Linton, Eliza Lynn
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '4835'
+    url: http://www.gutenberg.org/2009/agents/4835
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
+description: ''
+gutenberg_issued: '2012-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Girls'
+- !lcsh 'Women'
+tableOfContents: The girl of the period -- Modern mothers -- Paying one's shot --
+  What is woman's work? -- Little women -- Ideal women -- Pinchbeck -- Affronted womanhood
+  -- Feminine affectations -- Interference -- The fashionable woman -- Sleeping dogs
+  -- Beauty and brains -- Nymphs -- Mésalliances -- Weak sisters -- Pinching shoes
+  -- Superior beings -- Feminine amenities -- Grim females -- Mature sirens -- Pumpkins
+  -- Widows -- Dolls -- Charming women -- Apron-strings -- Fine feelings -- Sphinxes
+  -- Flirting -- Scramblers -- Flattery -- La femme passée -- Spoilt women -- Dovecots
+  -- Bored husbands.
+title: The Girl of the Period, and Other Social Essays, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/41735
